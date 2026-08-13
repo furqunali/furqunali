@@ -3,7 +3,7 @@
 ### AI Engineer & Agent Architect — building production AI agents, Digital FTEs, RAG & automation
 
 I turn complex business workflows into **autonomous AI systems**. Senior AI Engineer at
-**Sugarland Petroleum Inc. (Houston, TX — remote)**, backed by 15+ years in finance & operations —
+**Sugarland Petroleum, Inc. (Houston, TX — remote)**, backed by 15+ years in finance & operations —
 so I build AI that understands the *business*, not just the model.
 
 - 🤖 Focus: AI Agents · Agentic Workflows · RAG · LLM Automation · MLOps
