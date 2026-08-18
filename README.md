@@ -1,6 +1,6 @@
 <h1 align="center">Furqan Ali</h1>
 <p align="center">
-  <b>Head of AI &amp; Intelligent Automation</b> · Digital Transformation &amp; Automation
+  <b>Senior AI Engineer</b> · Digital Transformation &amp; Automation
 </p>
 <p align="center">
   Building <b>Digital FTEs</b> and AI agents that take real work off people's plates — turning
@@ -16,7 +16,7 @@
 
 ### 👋 About
 
-I lead **AI &amp; Intelligent Automation** — designing agentic systems and "Digital FTE" (Full-Time-Equivalent) AI workers that automate finance, operations, and back-office workflows end to end. My edge is domain depth: **15+ years in finance &amp; accounting** paired with hands-on engineering, so I build automation that actually fits how a business runs.
+I build **AI &amp; Intelligent Automation** — designing agentic systems and "Digital FTE" (Full-Time-Equivalent) AI workers that automate finance, operations, and back-office workflows end to end. My edge is domain depth: **15+ years in finance &amp; accounting** paired with hands-on engineering, so I build automation that actually fits how a business runs.
 
 - 🤖 **Focus:** AI agents · Digital FTEs · LLM &amp; RAG automation · workflow &amp; process automation
 - 🏢 **Currently:** Senior AI Engineer, **Sugarland Petroleum, Inc.** (remote)
