@@ -3,8 +3,8 @@
   <b>Senior AI Engineer</b> · Digital Transformation &amp; Automation
 </p>
 <p align="center">
-  Building <b>Digital FTEs</b> and AI agents that take real work off people's plates — turning
-  15+ years of finance &amp; operations into production automation.
+  Building <b>Digital FTEs</b> and AI agents that take real work off people's plates —
+  turning 15+ years of finance &amp; operations into production automation.
 </p>
 
 <p align="center">
@@ -16,26 +16,30 @@
 
 ### 👋 About
 
-I build **AI &amp; Intelligent Automation** — designing agentic systems and "Digital FTE" (Full-Time-Equivalent) AI workers that automate finance, operations, and back-office workflows end to end. My edge is domain depth: **15+ years in finance &amp; accounting** paired with hands-on engineering, so I build automation that actually fits how a business runs.
+I build **AI &amp; Intelligent Automation** — designing agentic systems and "Digital FTE"
+(Full-Time-Equivalent) AI workers that automate finance, operations, and back-office
+workflows end to end. My edge is domain depth: **15+ years in finance &amp; accounting**
+paired with hands-on engineering, so I build automation that actually fits how a business runs.
 
 - 🤖 **Focus:** AI agents · Digital FTEs · LLM &amp; RAG automation · workflow &amp; process automation
 - 🏢 **Currently:** Senior AI Engineer, **Sugarland Petroleum, Inc.** (remote)
 - 🌍 **Open to:** global AI &amp; automation roles — remote or relocation
-- 🎓 **Training:** Agent Factory (Panaversity) — building production Digital FTEs, spec-driven &amp; eval-driven
+- 🎓 **Learning:** production Digital FTEs — spec-driven &amp; evaluation-driven agent engineering
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects  ·  🟢 = live demo
 
 | Project | What it does | Links |
 |---|---|---|
-| **SLP Distance Calculator** | Fleet site-to-site distance matrix, mileage planner &amp; printable reimbursement reports | [Live](https://slpdistancecalculatorgenerate.vercel.app) · [Code](https://github.com/furqunali/slp-distance-calculator) |
-| **LoneStar Fuel Pricing** | Multi-supplier wholesale fuel-price analytics dashboard (trends, spread, best-price) | [Live](https://lonestarfuelpriceapp.vercel.app) · [Code](https://github.com/furqunali/lonestar-fuel-pricing) |
-| **Digital FTE** | An AI full-time-equivalent worker: handles official + communication tasks, notifies &amp; acts | [Code](https://github.com/furqunali/Digital_FTE) |
-| **Digital FTE Agent** | Sentinel agent — watches an inbox, processes instructions, writes results to a dashboard | [Code](https://github.com/furqunali/digital-fte-agent) |
-| **OpsPilot** | AI operations copilot — natural-language ops tasks, spec-driven agent | [Code](https://github.com/furqunali/ops-pilot-agent) |
-| **AI-Native Apps Guide** | A comprehensive guide to LLMs, RAG, agents &amp; MLOps | [Code](https://github.com/furqunali/AI-Native-Book) |
-| **Nextgen Planning** | Strategic dashboard: supplier, inventory &amp; financial planning in one app | [Code](https://github.com/furqunali/nexgen-planning) |
+| **Report Automation System** | Consolidates monthly multi-site reports into a clean master dataset + interactive KPI dashboard | 🟢 [Live](https://report-automation-dashboard.vercel.app) · [Code](https://github.com/furqunali/report-automation-system) |
+| **PDI Analytics Portal** | Browser-based Excel analytics — upload a workbook, auto-parse tabs, render KPIs &amp; charts (100% client-side) | 🟢 [Live](https://pdi-analytics-portal.vercel.app) · [Code](https://github.com/furqunali/pdi-analytics-portal) |
+| **SLP Distance Calculator** | Fleet site-to-site distance matrix, mileage planner &amp; printable reports | 🟢 [Live](https://slpdistancecalculatorgenerate.vercel.app) · [Code](https://github.com/furqunali/slp-distance-calculator) |
+| **LoneStar Fuel Pricing** | Multi-supplier wholesale fuel-price analytics dashboard | 🟢 [Live](https://lonestarfuelpriceapp.vercel.app) · [Code](https://github.com/furqunali/lonestar-fuel-pricing) |
+| **Nextgen Planning** | Strategic operations dashboard — supply chain, inventory, costs, roadmap &amp; KPIs | 🟢 [Live](https://nextgen-planning.vercel.app) · [Code](https://github.com/furqunali/nextgen-strategic-dashboard) |
+| **Digital FTE** | Autonomous "AI employee" — multi-agent system that reads incoming work and executes back-office tasks | [Code](https://github.com/furqunali/Digital_FTE) |
+| **OpsPilot** | AI operations copilot — runs multi-step operational workflows from natural-language instructions | [Code](https://github.com/furqunali/ops-pilot-agent) |
+| **AI-Native Apps Guide** | A 13-chapter engineering guide to LLMs, RAG, agents, embeddings &amp; MLOps | [Code](https://github.com/furqunali/AI-Native-Book) |
 
 ---
 
@@ -43,7 +47,7 @@ I build **AI &amp; Intelligent Automation** — designing agentic systems and "D
 
 **AI &amp; Agents:** AI Agents · LLMs · RAG · MCP (Model Context Protocol) · OpenAI Agents SDK · Digital FTEs · Spec-Driven &amp; Evaluation-Driven Development · Prompt Engineering
 
-**Automation &amp; Engineering:** Python · Workflow &amp; Process Automation · Data Pipelines · Reconciliation · REST APIs · JavaScript · HTML/CSS · Vercel
+**Automation &amp; Engineering:** Python · Node.js · Workflow &amp; Process Automation · Data Pipelines · Reconciliation · REST APIs · JavaScript · HTML/CSS · Vercel
 
 **Domain:** Finance &amp; Accounting · Operations · Reporting &amp; Analytics · Digital Transformation
 
