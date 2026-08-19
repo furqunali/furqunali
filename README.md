@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Furqan Ali 👋</h1>
-<h3 align="center">🤖 AI &amp; Intelligent Automation Engineer · 📊 Data Dashboards · ⚙️ Business-Process Automation</h3>
+<h3 align="center">🤖 Head of AI &amp; Intelligent Automation · Agentic AI • Digital FTEs • RAG • MLOps</h3>
+<p align="center"><i>Senior AI Engineer @ Sugarland Petroleum, Inc. &nbsp;·&nbsp; 15+ years in enterprise finance &amp; operations</i></p>
 
 <p align="center">
   <a href="https://furqan-ali-portfolio-dun.vercel.app">
@@ -12,15 +13,17 @@
 
 ---
 
-I build **AI agents and automation that ship results** — turning slow, manual workflows into
-reliable, self-running systems. My work spans **LLM-powered agents** (task intake → reasoning →
-action, with human-in-the-loop approval), **analytics dashboards** that turn raw spreadsheets
-into executive insight, and **end-to-end process automation** that replaces hours of manual work
-with a single command.
+I build **production AI agents and automation that ship results** — turning slow, manual workflows
+into reliable, self-running systems. My work spans **LLM-powered agents & "Digital FTEs"** (task
+intake → reasoning → action, with human-in-the-loop approval), **RAG pipelines**, **analytics
+dashboards** that turn raw spreadsheets into executive insight, and **end-to-end process automation**
+— backed by **15+ years of enterprise finance & operations**, which is my edge in knowing *which*
+processes are worth automating.
 
-- 🔭 Focus: **AI agents · workflow automation · data dashboards**
-- 🧰 Everyday stack: **Python · React · FastAPI · Streamlit · Gemini · openpyxl**
-- 🌱 Big on clean code, secrets hygiene, and shipping working, documented software
+- 🔭 Focus: **Agentic AI · Digital FTEs · RAG · workflow automation · data dashboards**
+- 🧰 Stack: **Python · Node.js · React · FastAPI · Docker/Kubernetes · Vertex AI · MCP · Gemini · openpyxl**
+- 📈 Impact: live tools that **cut manual processing time by 50–60%** in enterprise back-office ops
+- 🌱 Big on clean code, secrets hygiene, MLOps & shipping working, documented software
 - 🌐 See it all in one place: **[my portfolio »](https://furqan-ali-portfolio-dun.vercel.app)**
 
 ## 🚀 Featured Projects
@@ -39,8 +42,12 @@ with a single command.
 | **Distance Calculator** | Driving-distance matrices between sites → interactive calculator | Geocoding · Routing | [🟢 Live](https://slpdistancecalculatorgenerate.vercel.app) · [Code](https://github.com/furqunali/slp-distance-calculator) |
 | **Strategic Planning Dashboard** | Executive dashboard for initiatives, warehouses & supply routes | Dashboard · Data Viz | [🟢 Live](https://nextgen-planning.vercel.app) · [Code](https://github.com/furqunali/nextgen-strategic-dashboard) |
 | **Executive Dashboard** | Containerized FastAPI backend + frontend for workbook summaries | FastAPI · Docker | [Code](https://github.com/furqunali/executive-report-app) |
+| **OpsPilot — AI Agent Infrastructure** | Agent framework that runs multi-step operational workflows via structured reasoning | AI Agents · LLM APIs | [Code](https://github.com/furqunali/ops-pilot-agent) |
+| **AI-Native Applications Guide** | 13-chapter technical guide (with runnable examples) on LLMs, RAG, agents & MLOps | LLMs · RAG · MLOps | [Code](https://github.com/furqunali/AI-Native-Book) |
 
 > *All live demos use fully anonymized sample data.*
+
+> 🚧 **In Development — Agent Factory (AI-Native Enterprise Setup):** a workforce of autonomous **Digital FTEs** orchestrated across finance, operations, admin & communications under human oversight — built with **MCP connectors, a system-of-record knowledge layer, and evaluation-driven reliability**.
 
 ### 🐍 Fundamentals & tools
 [PDF → Excel Extractor](https://github.com/furqunali/pdf-to-excel-extractor) ·
@@ -53,9 +60,11 @@ with a single command.
 ## 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -71,6 +80,15 @@ with a single command.
 </p>
 
 <p align="center"><b>🏗️ 48 repositories built to date</b> — the counter above updates automatically every time a new public repo ships.</p>
+
+## 🎓 Certifications & Training
+
+- 🟢 **Responsible AI for Developers: Fairness & Bias** — Google Cloud
+- 🟢 **MLOps with Vertex AI: Model Evaluation for Generative AI** — Google Cloud
+- 🟢 **Microsoft Copilot Studio Agents & Power Automate** — Microsoft Learn
+- 🟢 **IBM SkillsBuild AI Practitioner** (Granite Models, Data Science & LLMs) — IBM / IBA
+- 🚧 **Agent Factory (Panaversity)** — building production Digital FTEs, spec-driven & eval-driven *(in progress)*
+- 🚧 **AI Agentic Engineering** — GIAIC *(in progress)*
 
 ## 🤝 Let's connect
 
