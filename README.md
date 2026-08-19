@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/🌐_Portfolio-0d9488?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/furqan-ali-08b030255">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:furqan@zakoil.com">
+  <a href="mailto:furqanali2628@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -103,7 +103,7 @@ I'm open to **AI engineering, automation, and data roles** — and always happy 
 <p align="left">
   <a href="https://furqan-ali-portfolio-dun.vercel.app">🌐 Portfolio</a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/furqan-ali-08b030255">💼 LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:furqan@zakoil.com">📧 Email</a>
+  <a href="mailto:furqanali2628@gmail.com">📧 Email</a>
 </p>
 
 <sub>⭐ If any of my projects are useful to you, a star is always appreciated!</sub>
