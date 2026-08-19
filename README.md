@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Furqan Ali 👋</h1>
-<h3 align="center">🤖 Head of AI &amp; Intelligent Automation · Agentic AI • Digital FTEs • RAG • MLOps</h3>
-<p align="center"><i>Senior AI Engineer @ Sugarland Petroleum, Inc. &nbsp;·&nbsp; 15+ years in enterprise finance &amp; operations</i></p>
+<h3 align="center">🤖 Senior AI Engineer · Agentic AI • Digital FTEs • RAG • Automation • MLOps</h3>
+<p align="center"><i>Sugarland Petroleum, Inc. &nbsp;·&nbsp; 15+ years in enterprise finance &amp; operations</i></p>
 
 <p align="center">
   <a href="https://furqan-ali-portfolio-dun.vercel.app">
