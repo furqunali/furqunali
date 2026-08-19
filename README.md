@@ -90,6 +90,12 @@ processes are worth automating.
 - 🚧 **Agent Factory (Panaversity)** — building production Digital FTEs, spec-driven & eval-driven *(in progress)*
 - 🚧 **AI Agentic Engineering** — GIAIC *(in progress)*
 
+## 🎓 Education
+
+- **B.Com in Accounting & Finance** — University of Karachi
+- **D.Com (Diploma in Commerce)** — Sindh Board of Technical Education
+- **Matriculation (Science)** — Board of Secondary Education, Karachi
+
 ## 🤝 Let's connect
 
 I'm open to **AI engineering, automation, and data roles** — and always happy to talk shop.
