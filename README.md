@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png?v=3" alt="Furqan Ali — Senior AI Engineer" width="100%" />
+  <img src="banner.png?v=4" alt="Furqan Ali — Senior AI Engineer" width="100%" />
 </p>
 
 <p align="center"><b>👋 Senior AI Engineer @ Sugarland Petroleum, Inc.</b> &nbsp;·&nbsp; 15+ years in enterprise finance &amp; operations</p>
