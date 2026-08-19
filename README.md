@@ -1,6 +1,8 @@
-<h1 align="center">Hi, I'm Furqan Ali 👋</h1>
-<h3 align="center">🤖 Senior AI Engineer · Agentic AI • Digital FTEs • RAG • Automation • MLOps</h3>
-<p align="center"><i>Sugarland Petroleum, Inc. &nbsp;·&nbsp; 15+ years in enterprise finance &amp; operations</i></p>
+<p align="center">
+  <img src="banner.png" alt="Furqan Ali — Senior AI Engineer" width="100%" />
+</p>
+
+<p align="center"><b>👋 Senior AI Engineer @ Sugarland Petroleum, Inc.</b> &nbsp;·&nbsp; 15+ years in enterprise finance &amp; operations</p>
 
 <p align="center">
   <a href="https://furqan-ali-portfolio-dun.vercel.app">
