@@ -27,17 +27,17 @@ with a single command.
 
 | Project | What it does | Tech | Links |
 |---------|--------------|------|-------|
-| **Enterprise Performance Tracker** | KPI & corporate-goals dashboard with role-based views | React · Recharts | [🌐 Live](https://slp-performance-tracker.vercel.app) · [Code](https://github.com/furqunali/performance-tracker-dashboard) |
+| **Enterprise Performance Tracker** | KPI & corporate-goals dashboard with role-based views | React · Recharts | [🟢 Live](https://slp-performance-tracker.vercel.app) · [Code](https://github.com/furqunali/performance-tracker-dashboard) |
 | **Digital FTE — AI Employee Agent** | Autonomous agent: watches an inbox, reasons, acts (human-approved) | Python · LLM · Gemini | [Code](https://github.com/furqunali/digital-fte) |
-| **Foodservice Report Automation** | Raw POS export → full Excel report + HTML dashboard in one command | Python · openpyxl | [🌐 Live](https://mto-gg-dashboard.vercel.app) · [Code](https://github.com/furqunali/mto-gg-report-automation) |
-| **Fleet Mileage & Reimbursement** | Distance engine + gas-reimbursement workflow with HR approval console | Python · Automation | [🌐 Live](https://fleet-mileage-demo.vercel.app) · [Code](https://github.com/furqunali/fleet-mileage-dashboard) |
+| **Foodservice Report Automation** | Raw POS export → full Excel report + HTML dashboard in one command | Python · openpyxl | [🟢 Live](https://mto-gg-dashboard.vercel.app) · [Code](https://github.com/furqunali/mto-gg-report-automation) |
+| **Fleet Mileage & Reimbursement** | Distance engine + gas-reimbursement workflow with HR approval console | Python · Automation | [🟢 Live](https://fleet-mileage-demo.vercel.app) · [Code](https://github.com/furqunali/fleet-mileage-dashboard) |
 | **AI Payroll System** | Multi-entity payroll automation with human-in-the-loop approvals | Python · Streamlit | [Code](https://github.com/furqunali/ai-payroll-system) |
-| **Business Report Automation System** | Source data → polished interactive management dashboard, automatically | Automation · Dashboards | [🌐 Live](https://report-automation-dashboard.vercel.app) · [Code](https://github.com/furqunali/report-automation-system) |
-| **PDI Analytics Portal** | Upload an Excel export → instant in-browser charts & KPIs | SheetJS · Chart.js | [🌐 Live](https://pdi-analytics-portal.vercel.app) · [Code](https://github.com/furqunali/pdi-analytics-portal) |
+| **Business Report Automation System** | Source data → polished interactive management dashboard, automatically | Automation · Dashboards | [🟢 Live](https://report-automation-dashboard.vercel.app) · [Code](https://github.com/furqunali/report-automation-system) |
+| **PDI Analytics Portal** | Upload an Excel export → instant in-browser charts & KPIs | SheetJS · Chart.js | [🟢 Live](https://pdi-analytics-portal.vercel.app) · [Code](https://github.com/furqunali/pdi-analytics-portal) |
 | **Fuel Pricing Agent** | Reads vendor price reports → mapped Excel tracker + HTML price app | Python · Data Pipeline | [Code](https://github.com/furqunali/fuel-pricing-agent) |
-| **Fuel Pricing App** | Daily fuel-price comparisons across suppliers in a fast web UI | Web App · Data Viz | [🌐 Live](https://lonestarfuelpriceapp.vercel.app) · [Code](https://github.com/furqunali/lonestar-fuel-pricing) |
-| **Distance Calculator** | Driving-distance matrices between sites → interactive calculator | Geocoding · Routing | [🌐 Live](https://slpdistancecalculatorgenerate.vercel.app) · [Code](https://github.com/furqunali/slp-distance-calculator) |
-| **Strategic Planning Dashboard** | Executive dashboard for initiatives, warehouses & supply routes | Dashboard · Data Viz | [🌐 Live](https://nextgen-planning.vercel.app) · [Code](https://github.com/furqunali/nextgen-strategic-dashboard) |
+| **Fuel Pricing App** | Daily fuel-price comparisons across suppliers in a fast web UI | Web App · Data Viz | [🟢 Live](https://lonestarfuelpriceapp.vercel.app) · [Code](https://github.com/furqunali/lonestar-fuel-pricing) |
+| **Distance Calculator** | Driving-distance matrices between sites → interactive calculator | Geocoding · Routing | [🟢 Live](https://slpdistancecalculatorgenerate.vercel.app) · [Code](https://github.com/furqunali/slp-distance-calculator) |
+| **Strategic Planning Dashboard** | Executive dashboard for initiatives, warehouses & supply routes | Dashboard · Data Viz | [🟢 Live](https://nextgen-planning.vercel.app) · [Code](https://github.com/furqunali/nextgen-strategic-dashboard) |
 | **Executive Dashboard** | Containerized FastAPI backend + frontend for workbook summaries | FastAPI · Docker | [Code](https://github.com/furqunali/executive-report-app) |
 
 > *All live demos use fully anonymized sample data.*
@@ -68,8 +68,6 @@ with a single command.
 
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ffurqunali&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=0d9488&logo=github" alt="Public repos" />
-  <img src="https://img.shields.io/github/followers/furqunali?label=Followers&style=for-the-badge&color=4f46e5&logo=github" alt="Followers" />
-  <img src="https://komarev.com/ghpvc/?username=furqunali&style=for-the-badge&color=0f766e&label=Profile+Views" alt="Profile views" />
 </p>
 
 <p align="center"><b>🏗️ 48 repositories built to date</b> — the counter above updates automatically every time a new public repo ships.</p>
