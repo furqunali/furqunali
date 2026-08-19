@@ -64,12 +64,15 @@ with a single command.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 By the Numbers
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=furqunali&show_icons=true&hide_border=true&theme=tokyonight" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furqunali&layout=compact&hide_border=true&theme=tokyonight" alt="top langs" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ffurqunali&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=0d9488&logo=github" alt="Public repos" />
+  <img src="https://img.shields.io/github/followers/furqunali?label=Followers&style=for-the-badge&color=4f46e5&logo=github" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=furqunali&style=for-the-badge&color=0f766e&label=Profile+Views" alt="Profile views" />
 </p>
+
+<p align="center"><b>🏗️ 48 repositories built to date</b> — the counter above updates automatically every time a new public repo ships.</p>
 
 ## 🤝 Let's connect
 
