@@ -32,13 +32,23 @@ with a single command.
 | **Foodservice Report Automation** | Raw POS export → full Excel report + HTML dashboard in one command | Python · openpyxl | [🌐 Live](https://mto-gg-dashboard.vercel.app) · [Code](https://github.com/furqunali/mto-gg-report-automation) |
 | **Fleet Mileage & Reimbursement** | Distance engine + gas-reimbursement workflow with HR approval console | Python · Automation | [🌐 Live](https://fleet-mileage-demo.vercel.app) · [Code](https://github.com/furqunali/fleet-mileage-dashboard) |
 | **AI Payroll System** | Multi-entity payroll automation with human-in-the-loop approvals | Python · Streamlit | [Code](https://github.com/furqunali/ai-payroll-system) |
+| **Business Report Automation System** | Source data → polished interactive management dashboard, automatically | Automation · Dashboards | [🌐 Live](https://report-automation-dashboard.vercel.app) · [Code](https://github.com/furqunali/report-automation-system) |
 | **PDI Analytics Portal** | Upload an Excel export → instant in-browser charts & KPIs | SheetJS · Chart.js | [🌐 Live](https://pdi-analytics-portal.vercel.app) · [Code](https://github.com/furqunali/pdi-analytics-portal) |
 | **Fuel Pricing Agent** | Reads vendor price reports → mapped Excel tracker + HTML price app | Python · Data Pipeline | [Code](https://github.com/furqunali/fuel-pricing-agent) |
+| **Fuel Pricing App** | Daily fuel-price comparisons across suppliers in a fast web UI | Web App · Data Viz | [🌐 Live](https://lonestarfuelpriceapp.vercel.app) · [Code](https://github.com/furqunali/lonestar-fuel-pricing) |
+| **Distance Calculator** | Driving-distance matrices between sites → interactive calculator | Geocoding · Routing | [🌐 Live](https://slpdistancecalculatorgenerate.vercel.app) · [Code](https://github.com/furqunali/slp-distance-calculator) |
+| **Strategic Planning Dashboard** | Executive dashboard for initiatives, warehouses & supply routes | Dashboard · Data Viz | [🌐 Live](https://nextgen-planning.vercel.app) · [Code](https://github.com/furqunali/nextgen-strategic-dashboard) |
 | **Executive Dashboard** | Containerized FastAPI backend + frontend for workbook summaries | FastAPI · Docker | [Code](https://github.com/furqunali/executive-report-app) |
 
-> 🔎 More live demos: [Business Report Automation](https://report-automation-dashboard.vercel.app) · [Fuel Pricing App](https://lonestarfuelpriceapp.vercel.app) · [Distance Calculator](https://slpdistancecalculatorgenerate.vercel.app) · [Strategic Planning Dashboard](https://nextgen-planning.vercel.app)
->
 > *All live demos use fully anonymized sample data.*
+
+### 🐍 Fundamentals & tools
+[PDF → Excel Extractor](https://github.com/furqunali/pdf-to-excel-extractor) ·
+[Gemini Chatbot](https://github.com/furqunali/gemini-chatbot) ·
+[Personal Library Manager](https://github.com/furqunali/personal-library-manager) ·
+[Password Strength Meter](https://github.com/furqunali/password-strength-meter) ·
+[Number Guessing Game](https://github.com/furqunali/number-guessing-game) ·
+[Python OOP Series](https://github.com/furqunali/python-oop-inheritance)
 
 ## 🧰 Tech Stack
 
