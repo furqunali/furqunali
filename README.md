@@ -84,14 +84,6 @@ Smaller learning projects and coding exercises that show my fundamentals:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 📊 By the Numbers
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ffurqunali&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=0d9488&logo=github" alt="Public repos" />
-</p>
-
-<p align="center"><b>🏗️ 49 repositories built to date</b> — the counter above updates automatically every time a new public repo ships.</p>
-
 ## 🎓 Certifications & Training
 
 - 🟢 **Responsible AI for Developers: Fairness & Bias** — Google Cloud
