@@ -34,7 +34,7 @@ processes are worth automating.
 
 | Project | What it does | Tech | Links |
 |---------|--------------|------|-------|
-| **Agentic Finance Crew** ⭐ NEW | Multi-agent expense-approver (Intake → Analyst → Approver) with a policy guardrail & human-in-the-loop — pluggable **CrewAI / LangGraph** engines | CrewAI · LangGraph · FastAPI · Docker · K8s · CI | [Code](https://github.com/furqunali/agentic-finance-crew) |
+| **Agentic Finance Crew** ⭐ NEW | Multi-agent expense-approver (Intake → Analyst → Approver) with a policy guardrail & human-in-the-loop — pluggable **CrewAI / LangGraph** engines | CrewAI · LangGraph · FastAPI · Docker · K8s · CI | [🟢 Live](https://agentic-finance-crew-deploy.vercel.app) · [Code](https://github.com/furqunali/agentic-finance-crew) |
 | **OpsPilot — AI Agent Infrastructure** | Agent framework that runs multi-step operational workflows via structured reasoning & tool use | AI Agents · LLM APIs | [Code](https://github.com/furqunali/ops-pilot-agent) |
 | **Digital FTE — AI Employee Agent** | Autonomous "digital full-time employee": watches an inbox, reasons, and acts — with human-in-the-loop approval | Python · LLM · Gemini | [Code](https://github.com/furqunali/digital-fte) |
 | **Enterprise Performance Tracker** | KPI & corporate-goals dashboard with role-based views for execs and managers | React · Recharts | [🟢 Live](https://slp-performance-tracker.vercel.app) · [Code](https://github.com/furqunali/performance-tracker-dashboard) |
