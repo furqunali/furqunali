@@ -48,16 +48,14 @@ processes are worth automating.
 
 ## 📦 More Projects
 
-| Project | What it does | Tech | Links |
-|---------|--------------|------|-------|
-| **Fleet Mileage & Reimbursement** | Distance engine + gas-reimbursement workflow with HR approval console | Python · Automation | [🟢 Live](https://fleet-mileage-demo.vercel.app) · [Code](https://github.com/furqunali/fleet-mileage-dashboard) |
-| **AI Payroll System** | Multi-entity payroll automation with human-in-the-loop approvals | Python · Streamlit | [Code](https://github.com/furqunali/ai-payroll-system) |
-| **PDI Analytics Portal** | Upload an Excel export → instant in-browser charts & KPIs | SheetJS · Chart.js | [🟢 Live](https://pdi-analytics-portal.vercel.app) · [Code](https://github.com/furqunali/pdi-analytics-portal) |
-| **Fuel Pricing Agent** | Reads vendor price reports → mapped Excel tracker + HTML price app | Python · Data Pipeline | [Code](https://github.com/furqunali/fuel-pricing-agent) |
-| **Fuel Pricing App** | Daily fuel-price comparisons across suppliers in a fast web UI | Web App · Data Viz | [🟢 Live](https://lonestarfuelpriceapp.vercel.app) · [Code](https://github.com/furqunali/lonestar-fuel-pricing) |
-| **Distance Calculator** | Driving-distance matrices between sites → interactive calculator | Geocoding · Routing | [🟢 Live](https://slpdistancecalculatorgenerate.vercel.app) · [Code](https://github.com/furqunali/slp-distance-calculator) |
-| **Strategic Planning Dashboard** | Executive dashboard for initiatives, warehouses & supply routes | Dashboard · Data Viz | [🟢 Live](https://nextgen-planning.vercel.app) · [Code](https://github.com/furqunali/nextgen-strategic-dashboard) |
-| **Executive Dashboard** | Containerized FastAPI backend + frontend for workbook summaries | FastAPI · Docker | [Code](https://github.com/furqunali/executive-report-app) |
+- **Fleet Mileage & Reimbursement** — distance engine + gas-reimbursement HR approval console · [🟢 Live](https://fleet-mileage-demo.vercel.app) · [Code](https://github.com/furqunali/fleet-mileage-dashboard)
+- **AI Payroll System** — multi-entity payroll automation with human-in-the-loop approvals · [Code](https://github.com/furqunali/ai-payroll-system)
+- **PDI Analytics Portal** — Excel export → instant in-browser charts & KPIs · [🟢 Live](https://pdi-analytics-portal.vercel.app) · [Code](https://github.com/furqunali/pdi-analytics-portal)
+- **Fuel Pricing Agent** — vendor price reports → mapped Excel tracker + HTML app · [Code](https://github.com/furqunali/fuel-pricing-agent)
+- **Fuel Pricing App** — daily supplier fuel-price comparisons in a fast web UI · [🟢 Live](https://lonestarfuelpriceapp.vercel.app) · [Code](https://github.com/furqunali/lonestar-fuel-pricing)
+- **Distance Calculator** — driving-distance matrices → interactive calculator · [🟢 Live](https://slpdistancecalculatorgenerate.vercel.app) · [Code](https://github.com/furqunali/slp-distance-calculator)
+- **Strategic Planning Dashboard** — executive view of initiatives, warehouses & supply routes · [🟢 Live](https://nextgen-planning.vercel.app) · [Code](https://github.com/furqunali/nextgen-strategic-dashboard)
+- **Executive Dashboard** — containerized FastAPI backend + frontend for workbook summaries · [Code](https://github.com/furqunali/executive-report-app)
 
 ### 🐍 Learning & Experiments
 
