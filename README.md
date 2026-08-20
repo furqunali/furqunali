@@ -34,6 +34,7 @@ processes are worth automating.
 
 | Project | What it does | Tech | Links |
 |---------|--------------|------|-------|
+| **Agentic Finance Crew** ⭐ NEW | Multi-agent CrewAI expense-approver: Intake → Analyst → Approver agents + a deterministic policy guardrail & human-in-the-loop | CrewAI · FastAPI · Docker · K8s · CI | [Code](https://github.com/furqunali/agentic-finance-crew) |
 | **OpsPilot — AI Agent Infrastructure** | Agent framework that runs multi-step operational workflows via structured reasoning & tool use | AI Agents · LLM APIs | [Code](https://github.com/furqunali/ops-pilot-agent) |
 | **Digital FTE — AI Employee Agent** | Autonomous "digital full-time employee": watches an inbox, reasons, and acts — with human-in-the-loop approval | Python · LLM · Gemini | [Code](https://github.com/furqunali/digital-fte) |
 | **Enterprise Performance Tracker** | KPI & corporate-goals dashboard with role-based views for execs and managers | React · Recharts | [🟢 Live](https://slp-performance-tracker.vercel.app) · [Code](https://github.com/furqunali/performance-tracker-dashboard) |
@@ -91,7 +92,7 @@ Smaller learning projects and coding exercises that show my fundamentals:
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ffurqunali&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=0d9488&logo=github" alt="Public repos" />
 </p>
 
-<p align="center"><b>🏗️ 48 repositories built to date</b> — the counter above updates automatically every time a new public repo ships.</p>
+<p align="center"><b>🏗️ 49 repositories built to date</b> — the counter above updates automatically every time a new public repo ships.</p>
 
 ## 🎓 Certifications & Training
 
