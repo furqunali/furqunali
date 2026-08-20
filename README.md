@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://furqan-ali-portfolio-dun.vercel.app">
     <img src="https://img.shields.io/badge/🌐_Portfolio-0d9488?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/furqan-ali-08b030255">
+  <a href="https://www.linkedin.com/in/furqan-ali-08b030255">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:furqanali2628@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -22,36 +22,46 @@ dashboards** that turn raw spreadsheets into executive insight, and **end-to-end
 — backed by **15+ years of enterprise finance & operations**, which is my edge in knowing *which*
 processes are worth automating.
 
-- 🔭 Focus: **Agentic AI · Digital FTEs · RAG · workflow automation · data dashboards**
+- 🔭 Focus: **Agentic AI · Digital FTEs · RAG · MCP · MLOps · enterprise automation**
 - 🧰 Stack: **Python · Node.js · React · FastAPI · Docker/Kubernetes · Vertex AI · MCP · Gemini · openpyxl**
 - 📈 Impact: live tools that **cut manual processing time by 50–60%** in enterprise back-office ops
 - 🌱 Big on clean code, secrets hygiene, MLOps & shipping working, documented software
 - 🌐 See it all in one place: **[my portfolio »](https://furqan-ali-portfolio-dun.vercel.app)**
 
-## 🚀 Featured Projects
+## ⭐ Flagship Projects
+
+> My strongest engineering work — production-oriented Agentic AI, Digital FTEs, and enterprise automation.
 
 | Project | What it does | Tech | Links |
 |---------|--------------|------|-------|
-| **Enterprise Performance Tracker** | KPI & corporate-goals dashboard with role-based views | React · Recharts | [🟢 Live](https://slp-performance-tracker.vercel.app) · [Code](https://github.com/furqunali/performance-tracker-dashboard) |
-| **Digital FTE — AI Employee Agent** | Autonomous agent: watches an inbox, reasons, acts (human-approved) | Python · LLM · Gemini | [Code](https://github.com/furqunali/digital-fte) |
+| **OpsPilot — AI Agent Infrastructure** | Agent framework that runs multi-step operational workflows via structured reasoning & tool use | AI Agents · LLM APIs | [Code](https://github.com/furqunali/ops-pilot-agent) |
+| **Digital FTE — AI Employee Agent** | Autonomous "digital full-time employee": watches an inbox, reasons, and acts — with human-in-the-loop approval | Python · LLM · Gemini | [Code](https://github.com/furqunali/digital-fte) |
+| **Enterprise Performance Tracker** | KPI & corporate-goals dashboard with role-based views for execs and managers | React · Recharts | [🟢 Live](https://slp-performance-tracker.vercel.app) · [Code](https://github.com/furqunali/performance-tracker-dashboard) |
+| **AI-Native Applications Guide** | 13-chapter technical guide (with runnable examples) on LLMs, RAG, agents & MLOps | LLMs · RAG · MLOps | [Code](https://github.com/furqunali/AI-Native-Book) |
+| **Business Report Automation System** | Source data → polished interactive management dashboard, automatically | Automation · Dashboards | [🟢 Live](https://report-automation-dashboard.vercel.app) · [Code](https://github.com/furqunali/report-automation-system) |
 | **Foodservice Report Automation** | Raw POS export → full Excel report + HTML dashboard in one command | Python · openpyxl | [🟢 Live](https://mto-gg-dashboard.vercel.app) · [Code](https://github.com/furqunali/mto-gg-report-automation) |
+
+> *All live demos use fully anonymized sample data.*
+
+> 🚧 **In Development — Agent Factory (AI-Native Enterprise Setup):** a workforce of autonomous **Digital FTEs** orchestrated across finance, operations, admin & communications under human oversight — built with **MCP connectors, a system-of-record knowledge layer, and evaluation-driven reliability**.
+
+## 📦 More Projects
+
+| Project | What it does | Tech | Links |
+|---------|--------------|------|-------|
 | **Fleet Mileage & Reimbursement** | Distance engine + gas-reimbursement workflow with HR approval console | Python · Automation | [🟢 Live](https://fleet-mileage-demo.vercel.app) · [Code](https://github.com/furqunali/fleet-mileage-dashboard) |
 | **AI Payroll System** | Multi-entity payroll automation with human-in-the-loop approvals | Python · Streamlit | [Code](https://github.com/furqunali/ai-payroll-system) |
-| **Business Report Automation System** | Source data → polished interactive management dashboard, automatically | Automation · Dashboards | [🟢 Live](https://report-automation-dashboard.vercel.app) · [Code](https://github.com/furqunali/report-automation-system) |
 | **PDI Analytics Portal** | Upload an Excel export → instant in-browser charts & KPIs | SheetJS · Chart.js | [🟢 Live](https://pdi-analytics-portal.vercel.app) · [Code](https://github.com/furqunali/pdi-analytics-portal) |
 | **Fuel Pricing Agent** | Reads vendor price reports → mapped Excel tracker + HTML price app | Python · Data Pipeline | [Code](https://github.com/furqunali/fuel-pricing-agent) |
 | **Fuel Pricing App** | Daily fuel-price comparisons across suppliers in a fast web UI | Web App · Data Viz | [🟢 Live](https://lonestarfuelpriceapp.vercel.app) · [Code](https://github.com/furqunali/lonestar-fuel-pricing) |
 | **Distance Calculator** | Driving-distance matrices between sites → interactive calculator | Geocoding · Routing | [🟢 Live](https://slpdistancecalculatorgenerate.vercel.app) · [Code](https://github.com/furqunali/slp-distance-calculator) |
 | **Strategic Planning Dashboard** | Executive dashboard for initiatives, warehouses & supply routes | Dashboard · Data Viz | [🟢 Live](https://nextgen-planning.vercel.app) · [Code](https://github.com/furqunali/nextgen-strategic-dashboard) |
 | **Executive Dashboard** | Containerized FastAPI backend + frontend for workbook summaries | FastAPI · Docker | [Code](https://github.com/furqunali/executive-report-app) |
-| **OpsPilot — AI Agent Infrastructure** | Agent framework that runs multi-step operational workflows via structured reasoning | AI Agents · LLM APIs | [Code](https://github.com/furqunali/ops-pilot-agent) |
-| **AI-Native Applications Guide** | 13-chapter technical guide (with runnable examples) on LLMs, RAG, agents & MLOps | LLMs · RAG · MLOps | [Code](https://github.com/furqunali/AI-Native-Book) |
 
-> *All live demos use fully anonymized sample data.*
+### 🐍 Learning & Experiments
 
-> 🚧 **In Development — Agent Factory (AI-Native Enterprise Setup):** a workforce of autonomous **Digital FTEs** orchestrated across finance, operations, admin & communications under human oversight — built with **MCP connectors, a system-of-record knowledge layer, and evaluation-driven reliability**.
+Smaller learning projects and coding exercises that show my fundamentals:
 
-### 🐍 Fundamentals & tools
 [PDF → Excel Extractor](https://github.com/furqunali/pdf-to-excel-extractor) ·
 [Gemini Chatbot](https://github.com/furqunali/gemini-chatbot) ·
 [Personal Library Manager](https://github.com/furqunali/personal-library-manager) ·
@@ -100,11 +110,11 @@ processes are worth automating.
 
 ## 🤝 Let's connect
 
-I'm open to **AI engineering, automation, and data roles** — and always happy to talk shop.
+I'm open to **Senior AI Engineering, Agentic AI, GenAI, RAG, MLOps and enterprise automation** opportunities — and always happy to talk shop.
 
 <p align="left">
   <a href="https://furqan-ali-portfolio-dun.vercel.app">🌐 Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/furqan-ali-08b030255">💼 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/furqan-ali-08b030255">💼 LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:furqanali2628@gmail.com">📧 Email</a>
 </p>
 
