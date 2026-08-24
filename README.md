@@ -95,6 +95,7 @@ Smaller learning projects and coding exercises that show my fundamentals:
 
 ## 🎓 Education
 
+- **M.Com in Accounting & Finance** — University of Karachi
 - **B.Com in Accounting & Finance** — University of Karachi
 - **D.Com (Diploma in Commerce)** — Sindh Board of Technical Education
 - **Matriculation (Science)** — Board of Secondary Education, Karachi
