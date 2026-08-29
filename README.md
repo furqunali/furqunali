@@ -44,8 +44,6 @@ processes are worth automating.
 
 > *All live demos use fully anonymized sample data.*
 
-> 🚧 **In Development — Agent Factory (AI-Native Enterprise Setup):** a workforce of autonomous **Digital FTEs** orchestrated across finance, operations, admin & communications under human oversight — built with **MCP connectors, a system-of-record knowledge layer, and evaluation-driven reliability**.
-
 ## 📦 More Projects
 
 - **OpsPilot — AI Agent Infrastructure** — agent framework that runs multi-step operational workflows via structured reasoning & tool use · [Code](https://github.com/furqunali/ops-pilot-agent)
