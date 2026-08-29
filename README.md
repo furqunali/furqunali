@@ -34,8 +34,8 @@ processes are worth automating.
 
 | Project | What it does | Tech | Links |
 |---------|--------------|------|-------|
-| **Agentic Finance Crew** ⭐ NEW | Multi-agent expense-approver (Intake → Analyst → Approver) with a policy guardrail & human-in-the-loop — pluggable **CrewAI / LangGraph** engines | CrewAI · LangGraph · FastAPI · Docker · K8s · CI | [🟢 Live](https://agentic-finance-crew-deploy.vercel.app) · [Code](https://github.com/furqunali/agentic-finance-crew) |
-| **OpsPilot — AI Agent Infrastructure** | Agent framework that runs multi-step operational workflows via structured reasoning & tool use | AI Agents · LLM APIs | [Code](https://github.com/furqunali/ops-pilot-agent) |
+| **Food & Sales Budget Variance** ⭐ NEW | Monthly 4-store foodservice budget-vs-actual report → verified Excel + an executive HTML dashboard (margins, sales, customer counts, kitchen mix), built in one command with an automated anomaly & 3-month-trend flagging pass | Python · openpyxl · Excel COM · HTML/JS | [🟢 Live](https://food-sales-variance-automation.vercel.app) · [Code](https://github.com/furqunali/food-sales-variance-automation) |
+| **Agentic Finance Crew** ⭐ | Multi-agent expense-approver (Intake → Analyst → Approver) with a policy guardrail & human-in-the-loop — pluggable **CrewAI / LangGraph** engines | CrewAI · LangGraph · FastAPI · Docker · K8s · CI | [🟢 Live](https://agentic-finance-crew-deploy.vercel.app) · [Code](https://github.com/furqunali/agentic-finance-crew) |
 | **Digital FTE — AI Employee Agent** | Autonomous "digital full-time employee": watches an inbox, reasons, and acts — with human-in-the-loop approval | Python · LLM · Gemini | [Code](https://github.com/furqunali/digital-fte) |
 | **Enterprise Performance Tracker** | KPI & corporate-goals dashboard with role-based views for execs and managers | React · Recharts | [🟢 Live](https://slp-performance-tracker.vercel.app) · [Code](https://github.com/furqunali/performance-tracker-dashboard) |
 | **AI-Native Applications Guide** | 13-chapter technical guide (with runnable examples) on LLMs, RAG, agents & MLOps | LLMs · RAG · MLOps | [Code](https://github.com/furqunali/AI-Native-Book) |
@@ -48,6 +48,7 @@ processes are worth automating.
 
 ## 📦 More Projects
 
+- **OpsPilot — AI Agent Infrastructure** — agent framework that runs multi-step operational workflows via structured reasoning & tool use · [Code](https://github.com/furqunali/ops-pilot-agent)
 - **Fleet Mileage & Reimbursement** — distance engine + gas-reimbursement HR approval console · [🟢 Live](https://fleet-mileage-demo.vercel.app) · [Code](https://github.com/furqunali/fleet-mileage-dashboard)
 - **AI Payroll System** — multi-entity payroll automation with human-in-the-loop approvals · [Code](https://github.com/furqunali/ai-payroll-system)
 - **PDI Analytics Portal** — Excel export → instant in-browser charts & KPIs · [🟢 Live](https://pdi-analytics-portal.vercel.app) · [Code](https://github.com/furqunali/pdi-analytics-portal)
@@ -90,7 +91,6 @@ Smaller learning projects and coding exercises that show my fundamentals:
 - 🟢 **MLOps with Vertex AI: Model Evaluation for Generative AI** — Google Cloud
 - 🟢 **Microsoft Copilot Studio Agents & Power Automate** — Microsoft Learn
 - 🟢 **IBM SkillsBuild AI Practitioner** (Granite Models, Data Science & LLMs) — IBM / IBA
-- 🚧 **Agent Factory (Panaversity)** — building production Digital FTEs, spec-driven & eval-driven *(in progress)*
 - 🚧 **AI Agentic Engineering** — GIAIC *(in progress)*
 
 ## 🎓 Education
