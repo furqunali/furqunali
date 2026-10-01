@@ -46,7 +46,7 @@ processes are worth automating.
 
 ## 📦 More Projects
 
-- **OpsPilot — AI Agent Infrastructure** — agent framework that runs multi-step operational workflows via structured reasoning & tool use · [Code](https://github.com/furqunali/ops-pilot-agent)
+- **OpsPilot — AI Agent Infrastructure** ⭐ — spec-driven runtime for multi-step operational workflows with plan/authorize/execute/verify/report orchestration, retries, observability, run correlation, execution ledger, durable recovery, metrics, inspection, and structured errors · [Code](https://github.com/furqunali/ops-pilot-agent)
 - **Fleet Mileage & Reimbursement** — distance engine + gas-reimbursement HR approval console · [🟢 Live](https://fleet-mileage-demo.vercel.app) · [Code](https://github.com/furqunali/fleet-mileage-dashboard)
 - **AI Payroll System** — multi-entity payroll automation with human-in-the-loop approvals · [Code](https://github.com/furqunali/ai-payroll-system)
 - **PDI Analytics Portal** — Excel export → instant in-browser charts & KPIs · [🟢 Live](https://pdi-analytics-portal.vercel.app) · [Code](https://github.com/furqunali/pdi-analytics-portal)
