@@ -56,6 +56,17 @@ processes are worth automating.
 - **Strategic Planning Dashboard** — executive view of initiatives, warehouses & supply routes · [🟢 Live](https://nextgen-planning.vercel.app) · [Code](https://github.com/furqunali/nextgen-strategic-dashboard)
 - **Executive Dashboard** — containerized FastAPI backend + frontend for workbook summaries · [Code](https://github.com/furqunali/executive-report-app)
 
+## 🧱 Engineering Foundations
+
+Alongside the flagship AI/automation work, I maintain smaller repositories as reusable engineering exercises rather than one-off scripts:
+
+- **[Counting Game](https://github.com/furqunali/counting-game)** — session lifecycle, analytics, validated snapshots, and JSON persistence
+- **[Number Guessing Game](https://github.com/furqunali/number-guessing-game)** — reusable game engine, history/leaderboard APIs, scoring, and JSON persistence
+- **[Agentic To-Do System](https://github.com/furqunali/agentic-todo-system-giaic)** — domain-first task management, filtering, reporting, workload analytics, and persistence
+- **[Student AI RAG Assistant](https://github.com/furqunali/Hackathon2-Phase1)** — validated student models, ranked retrieval, analytics, and JSON persistence
+
+These projects share the same engineering direction: **small domain models → tested public APIs → persistence → automation → product-facing interfaces**.
+
 ### 🐍 Learning & Experiments
 
 Smaller learning projects and coding exercises that show my fundamentals:
