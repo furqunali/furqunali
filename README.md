@@ -9,6 +9,8 @@
     <img src="https://img.shields.io/badge/🌐_Portfolio-0d9488?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/furqan-ali-08b030255">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://huggingface.co/FurqanAli12345">
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
   <a href="mailto:furqanali2628@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -22,8 +24,9 @@ dashboards** that turn raw spreadsheets into executive insight, and **end-to-end
 — backed by **15+ years of enterprise finance & operations**, which is my edge in knowing *which*
 processes are worth automating.
 
-- 🔭 Focus: **Agentic AI · Digital FTEs · RAG · MCP · MLOps · enterprise automation**
-- 🧰 Stack: **Python · Node.js · React · FastAPI · Docker/Kubernetes · Vertex AI · MCP · Gemini · openpyxl**
+- 🔭 Focus: **Agentic AI · Multi-Agent Systems · Digital FTEs · RAG · MCP · Computer Vision · MLOps · enterprise automation**
+- 🧰 Stack: **Python · Node.js · FastAPI · CrewAI · LangGraph · Docker/Kubernetes · Vertex AI · Gemini · OpenCV · openpyxl**
+- 🤗 Live demos on **[Hugging Face](https://huggingface.co/FurqanAli12345)** — see the [AI Engineering Portfolio collection](https://huggingface.co/collections/FurqanAli12345/ai-engineering-portfolio-furqan-ali-6aee23309106bbd0f76f060b)
 - 📈 Impact: live tools that **cut manual processing time by 50–60%** in enterprise back-office ops
 - 🌱 Big on clean code, secrets hygiene, MLOps & shipping working, documented software
 - 🌐 See it all in one place: **[my portfolio »](https://furqan-ali-portfolio-dun.vercel.app)**
@@ -34,25 +37,29 @@ processes are worth automating.
 
 | Project | What it does | Tech | Links |
 |---------|--------------|------|-------|
-| **Food & Sales Budget Variance** ⭐ NEW | Monthly 4-store foodservice budget-vs-actual report → verified Excel + an executive HTML dashboard (margins, sales, customer counts, kitchen mix), built in one command with an automated anomaly & 3-month-trend flagging pass | Python · openpyxl · Excel COM · HTML/JS | [🟢 Live](https://food-sales-variance-automation.vercel.app) · [Code](https://github.com/furqunali/food-sales-variance-automation) |
-| **Agentic Finance Crew** ⭐ | Multi-agent expense-approver (Intake → Analyst → Approver) with a policy guardrail & human-in-the-loop — pluggable **CrewAI / LangGraph** engines | CrewAI · LangGraph · FastAPI · Docker · K8s · CI | [🟢 Live](https://agentic-finance-crew-deploy.vercel.app) · [Code](https://github.com/furqunali/agentic-finance-crew) |
+| **Agentic Finance Crew** ⭐ | Multi-agent expense approver (Intake → Analyst → Approver) with a deterministic policy guardrail & human-in-the-loop — pluggable **CrewAI / LangGraph** engines | CrewAI · LangGraph · FastAPI · Docker · K8s · CI | [🟢 Live](https://agentic-finance-crew-deploy.vercel.app) · [🤗 HF](https://huggingface.co/spaces/FurqanAli12345/agentic-finance-crew) · [Code](https://github.com/furqunali/agentic-finance-crew) |
+| **OpsPilot — AI Operations Agent** ⭐ | Spec-driven agent runtime: parse → plan → authorize → execute → verify → report, with human approval, audit ledger, MCP tool adapter and an evaluation control plane | Node.js · MCP · Evals · 297 tests | [🤗 HF](https://huggingface.co/spaces/FurqanAli12345/opspilot-ai-operations-agent) · [Code](https://github.com/furqunali/ops-pilot-agent) |
+| **AI Video Intelligence** ⭐ | Offline-first CCTV loss-prevention: detects register, POS-void & floor incidents and builds a risk-ranked evidence report | Python · OpenCV · FastAPI · 161 tests | [🤗 HF](https://huggingface.co/spaces/FurqanAli12345/ai-video-intelligence) · [🟢 Demo](https://furqunali.github.io/lonestar-video-intelligence/) · [Code](https://github.com/furqunali/lonestar-video-intelligence) |
+| **RAG Document Assistant** | Chunk → embed → retrieve → grounded answers with citations and an honest "I don't know" | Python · Embeddings · RAG | [🤗 HF](https://huggingface.co/spaces/FurqanAli12345/rag-document-assistant) · [Code](https://github.com/furqunali/rag-document-assistant) |
+| **hitl-guardrail** 📦 | Human-in-the-loop policy guardrail for LLM / AI-agent actions — published on PyPI | Python · zero deps · typed | [PyPI](https://pypi.org/project/hitl-guardrail/) · [Code](https://github.com/furqunali/hitl-guardrail) |
+| **Pricebook Invoice Converter** | Vision-LLM reads multi-vendor invoices → import-ready pricebook files with deterministic checks (77 tests) | Python · Gemini Vision | [🤗 HF](https://huggingface.co/spaces/FurqanAli12345/pricebook-invoice-converter) · [Code](https://github.com/furqunali/pricebook-invoice-converter) |
+| **Food & Sales Budget Variance — AI CFO** | Monthly budget-vs-actual Excel + executive dashboard in one command, with KPI, revenue-driver & anomaly analysis (174 tests) | Python · openpyxl · Analytics | [🟢 Demo](https://furqunali.github.io/food-sales-variance-automation/) · [Code](https://github.com/furqunali/food-sales-variance-automation) |
 | **Digital FTE — AI Employee Agent** | Autonomous "digital full-time employee": watches an inbox, reasons, and acts — with human-in-the-loop approval | Python · LLM · Gemini | [Code](https://github.com/furqunali/digital-fte) |
-| **Enterprise Performance Tracker** | KPI & corporate-goals dashboard with role-based views for execs and managers | React · Recharts | [🟢 Live](https://slp-performance-tracker.vercel.app) · [Code](https://github.com/furqunali/performance-tracker-dashboard) |
-| **AI-Native Applications Guide** | 13-chapter technical guide (with runnable examples) on LLMs, RAG, agents & MLOps | LLMs · RAG · MLOps | [Code](https://github.com/furqunali/AI-Native-Book) |
-| **Business Report Automation System** | Source data → polished interactive management dashboard, automatically | Automation · Dashboards | [🟢 Live](https://report-automation-dashboard.vercel.app) · [Code](https://github.com/furqunali/report-automation-system) |
-| **Foodservice Report Automation** | Raw POS export → full Excel report + HTML dashboard in one command | Python · openpyxl | [🟢 Live](https://mto-gg-dashboard.vercel.app) · [Code](https://github.com/furqunali/mto-gg-report-automation) |
 
-> *All live demos use fully anonymized sample data.*
+> *All live demos use fully anonymized or synthetic sample data.*
 
 ## 📦 More Projects
 
-- **OpsPilot — AI Agent Infrastructure** ⭐ — spec-driven runtime for multi-step operational workflows with plan/authorize/execute/verify/report orchestration, retries, observability, run correlation, execution ledger, durable recovery, metrics, inspection, and structured errors · [Code](https://github.com/furqunali/ops-pilot-agent)
+- **Intelligent Business Reporting** — raw store data → KPIs, anomalies & an executive summary · [🤗 HF](https://huggingface.co/spaces/FurqanAli12345/intelligent-business-reporting) · [Code](https://github.com/furqunali/report-automation-system)
+- **Enterprise Performance Tracker** — KPI & corporate-goals dashboard with role-based views · [🟢 Live](https://slp-performance-tracker.vercel.app) · [Code](https://github.com/furqunali/performance-tracker-dashboard)
+- **Foodservice Report Automation** — raw POS export → full Excel report + HTML dashboard in one command · [🟢 Live](https://mto-gg-dashboard.vercel.app) · [Code](https://github.com/furqunali/mto-gg-report-automation)
+- **Change-Order Extractor** — AI pipeline that extracts structured fields from construction change orders · [Code](https://github.com/furqunali/change-order-extractor)
 - **Fleet Mileage & Reimbursement** — distance engine + gas-reimbursement HR approval console · [🟢 Live](https://fleet-mileage-demo.vercel.app) · [Code](https://github.com/furqunali/fleet-mileage-dashboard)
 - **AI Payroll System** — multi-entity payroll automation with human-in-the-loop approvals · [Code](https://github.com/furqunali/ai-payroll-system)
 - **PDI Analytics Portal** — Excel export → instant in-browser charts & KPIs · [🟢 Live](https://pdi-analytics-portal.vercel.app) · [Code](https://github.com/furqunali/pdi-analytics-portal)
 - **Fuel Pricing Agent** — vendor price reports → mapped Excel tracker + HTML app · [Code](https://github.com/furqunali/fuel-pricing-agent)
-- **Fuel Pricing App** — daily supplier fuel-price comparisons in a fast web UI · [🟢 Live](https://lonestarfuelpriceapp.vercel.app) · [Code](https://github.com/furqunali/lonestar-fuel-pricing)
-- **Distance Calculator** — driving-distance matrices → interactive calculator · [🟢 Live](https://slpdistancecalculatorgenerate.vercel.app) · [Code](https://github.com/furqunali/slp-distance-calculator)
+- **Fuel Pricing App** — daily supplier fuel-price comparisons in a fast web UI · [Code](https://github.com/furqunali/lonestar-fuel-pricing)
+- **Distance Calculator** — driving-distance matrices → interactive calculator · [Code](https://github.com/furqunali/slp-distance-calculator)
 - **Strategic Planning Dashboard** — executive view of initiatives, warehouses & supply routes · [🟢 Live](https://nextgen-planning.vercel.app) · [Code](https://github.com/furqunali/nextgen-strategic-dashboard)
 - **Executive Dashboard** — containerized FastAPI backend + frontend for workbook summaries · [Code](https://github.com/furqunali/executive-report-app)
 
@@ -63,7 +70,6 @@ Alongside the flagship AI/automation work, I maintain smaller repositories as re
 - **[Counting Game](https://github.com/furqunali/counting-game)** — session lifecycle, analytics, validated snapshots, and JSON persistence
 - **[Number Guessing Game](https://github.com/furqunali/number-guessing-game)** — reusable game engine, history/leaderboard APIs, scoring, and JSON persistence
 - **[Agentic To-Do System](https://github.com/furqunali/agentic-todo-system-giaic)** — domain-first task management, filtering, reporting, workload analytics, and persistence
-- **[Student AI RAG Assistant](https://github.com/furqunali/Hackathon2-Phase1)** — validated student models, ranked retrieval, analytics, and JSON persistence
 
 These projects share the same engineering direction: **small domain models → tested public APIs → persistence → automation → product-facing interfaces**.
 
@@ -72,7 +78,7 @@ These projects share the same engineering direction: **small domain models → t
 Smaller learning projects and coding exercises that show my fundamentals:
 
 [PDF → Excel Extractor](https://github.com/furqunali/pdf-to-excel-extractor) ·
-[Gemini Chatbot](https://github.com/furqunali/gemini-chatbot) ·
+[Gemini API Starter](https://github.com/furqunali/gemini-api-starter) ·
 [Personal Library Manager](https://github.com/furqunali/personal-library-manager) ·
 [Password Strength Meter](https://github.com/furqunali/password-strength-meter) ·
 [Number Guessing Game](https://github.com/furqunali/number-guessing-game) ·
@@ -90,6 +96,10 @@ Smaller learning projects and coding exercises that show my fundamentals:
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -116,6 +126,7 @@ I'm open to **Senior AI Engineering, Agentic AI, GenAI, RAG, MLOps and enterpris
 <p align="left">
   <a href="https://furqan-ali-portfolio-dun.vercel.app">🌐 Portfolio</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/furqan-ali-08b030255">💼 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://huggingface.co/FurqanAli12345">🤗 Hugging Face</a> &nbsp;·&nbsp;
   <a href="mailto:furqanali2628@gmail.com">📧 Email</a>
 </p>
 
