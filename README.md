@@ -2,7 +2,8 @@
   <img src="banner.png?v=4" alt="Furqan Ali — Senior AI Engineer" width="100%" />
 </p>
 
-<p align="center"><b>👋 Senior AI Engineer @ Sugarland Petroleum, Inc.</b> &nbsp;·&nbsp; 15+ years in enterprise finance &amp; operations</p>
+<p align="center"><b>👋 Senior AI Engineer &nbsp;·&nbsp; Forward Deployed Engineer (FDE)</b><br>
+Sugarland Petroleum, Inc. &nbsp;·&nbsp; 15+ years in enterprise finance &amp; operations &nbsp;·&nbsp; Karachi, Pakistan — open to remote &amp; relocation</p>
 
 <p align="center">
   <a href="https://furqan-ali-portfolio-dun.vercel.app">
@@ -17,19 +18,18 @@
 
 ---
 
-I build **production AI agents and automation that ship results** — turning slow, manual workflows
-into reliable, self-running systems. My work spans **LLM-powered agents & "Digital FTEs"** (task
-intake → reasoning → action, with human-in-the-loop approval), **RAG pipelines**, **analytics
-dashboards** that turn raw spreadsheets into executive insight, and **end-to-end process automation**
-— backed by **15+ years of enterprise finance & operations**, which is my edge in knowing *which*
-processes are worth automating.
+I work as a **Forward Deployed AI Engineer**: I sit with finance and operations teams, find the
+workflows that cost the most time and money, and ship **production AI that runs them** — multi-agent
+systems, RAG, computer vision and MCP-connected agents — with **human approval, audit trails and
+evaluations** built in from day one. **15+ years in enterprise finance & operations** means I start
+from the business problem and prove the numbers reconcile before anything goes live.
 
-- 🔭 Focus: **Agentic AI · Multi-Agent Systems · Digital FTEs · RAG · MCP · Computer Vision · MLOps · enterprise automation**
-- 🧰 Stack: **Python · Node.js · FastAPI · CrewAI · LangGraph · Docker/Kubernetes · Vertex AI · Gemini · OpenCV · openpyxl**
-- 🤗 Live demos on **[Hugging Face](https://huggingface.co/FurqanAli12345)** — see the [AI Engineering Portfolio collection](https://huggingface.co/collections/FurqanAli12345/ai-engineering-portfolio-furqan-ali-6aee23309106bbd0f76f060b)
-- 📈 Impact: live tools that **cut manual processing time by 50–60%** in enterprise back-office ops
-- 🌱 Big on clean code, secrets hygiene, MLOps & shipping working, documented software
-- 🌐 See it all in one place: **[my portfolio »](https://furqan-ali-portfolio-dun.vercel.app)**
+- 🧭 **How I work:** discovery with the business → working prototype in days → hardened production system → measured impact
+- 🔭 **Focus:** Agentic AI · Multi-Agent Systems · Digital FTEs · RAG · MCP · Computer Vision · LLM Evaluation · MLOps
+- 🧰 **Stack:** Python · Node.js · FastAPI · CrewAI · LangGraph · Gemini · Vertex AI · OpenCV · PostgreSQL · Docker / Kubernetes · GitHub Actions
+- 🛡️ **Standards:** tests + CI on every flagship · human-in-the-loop for risky actions · OWASP LLM Top 10 guardrails · secrets hygiene · documented, reproducible builds
+- 📈 **Impact:** live tools that **cut manual processing time by 50–60%** across enterprise back-office operations
+- 🤗 **Try it:** live demos on [Hugging Face](https://huggingface.co/FurqanAli12345) — [AI Engineering Portfolio collection](https://huggingface.co/collections/FurqanAli12345/ai-engineering-portfolio-furqan-ali-6aee23309106bbd0f76f060b) · [portfolio site »](https://furqan-ali-portfolio-dun.vercel.app)
 
 ## ⭐ Flagship Projects
 
@@ -121,7 +121,7 @@ Smaller learning projects and coding exercises that show my fundamentals:
 
 ## 🤝 Let's connect
 
-I'm open to **Senior AI Engineering, Agentic AI, GenAI, RAG, MLOps and enterprise automation** opportunities — and always happy to talk shop.
+I'm open to **Senior AI Engineer, Forward Deployed Engineer, Agentic AI / GenAI, RAG and MLOps** roles — remote or relocation — and always happy to talk shop.
 
 <p align="left">
   <a href="https://furqan-ali-portfolio-dun.vercel.app">🌐 Portfolio</a> &nbsp;·&nbsp;
